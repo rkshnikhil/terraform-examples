@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
  
-Things you need to install run these examples
+Things you need to install to run these examples
 
 * Terraform
 * AWS Account
@@ -24,7 +24,7 @@ Install terraform and create an AWS free tier account as per below details.
 * AWS Account - Create an AWS free tier account to run these examples.
 
 ### Executing Examples
-Follow instructions.txt kept in each example folder.
+Follow instructions.txt kept in each folder.
 
 
 ## Built With
