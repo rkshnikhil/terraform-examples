@@ -1,6 +1,8 @@
 # Project Title
 
-Terraform examples repo. Its a personal repo and doesn't resonates with any organization i have worked with.
+Terraform examples repo to help community to learn terraform quickly.
+
+Disclaimer - Its a personal repo and doesn't resonates with any organization I worked with.
 
 ## Getting Started
 
