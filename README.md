@@ -14,6 +14,7 @@ Things you need to install run these examples
 
 * Terraform
 * AWS Account
+* Knowledge of AWS services and their usage.
 
 
 ### Installing
