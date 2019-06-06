@@ -1,0 +1,9 @@
+1) Update instance-tf file with your AWS acccount access and secret key
+2) Update appropriate AWS region where you want to deploy resource.
+3) Find appropriate AWS machine AMI name from - https://cloud-images.ubuntu.com/locator/ec2/ or https://aws.amazon.com/amazon-linux-ami/ for the selected region.
+4) You can search using keyword : us-west-1 hvm and can select AMI for hvm:ebs-ssd instance type from above portal for AMI image name.
+5) Run command terraform command - terraform init in your workspace where instance.tf is kept.
+6) Then execute command - terraform apply to create resource.
+7) Terraform will ask for permission to executed instructions. Write "yes" and click enter key.
+8) Verify ec2 resource from AWS console.
+9) To destroy created resource execute terraform destroy
