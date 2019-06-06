@@ -1,0 +1,3 @@
+1) Substitute appropriate AMI Id's in vars.tf file.
+2) Substitute your AWS account user access and secret key in terraform.tfvars file and add this file to your .gitignore file.
+3) 
