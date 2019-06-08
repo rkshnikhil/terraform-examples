@@ -1,15 +1,15 @@
-# Project Title
+## Terraform Examples
 
-Terraform examples repo to help community to learn terraform quickly.
+This repo carries very simple terraform examples with highlights of used concepts.
 
-Disclaimer - Its a personal repo and doesn't resonates with any organization I worked with.
+**Disclaimer** - Its a personal repo and doesn't resonates with any organization I worked with.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
 ### Prerequisites
- 
+
 Things you need to install to run these examples
 
 * Terraform
@@ -20,11 +20,11 @@ Things you need to install to run these examples
 ### Installing
 Install terraform and create an AWS free tier account as per below details.
 
-* Terraform - Follow instructions from [Terrraform Install](hhttps://learn.hashicorp.com/terraform/getting-started/install.html) to install terraform on your machine (Windows/Mac/Linux) 
+* Terraform - Follow instructions [Terrraform Install](hhttps://learn.hashicorp.com/terraform/getting-started/install.html) to install terraform on your machine (Windows/Mac/Linux).
 * AWS Account - Create an AWS free tier account to run these examples.
 
 ### Executing Examples
-Follow instructions.txt kept in each folder.
+Follow execution instruction descriped in each folder.
 
 
 ## Built With
