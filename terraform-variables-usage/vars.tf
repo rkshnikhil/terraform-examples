@@ -8,6 +8,6 @@ variable "AMIS" {
     default = {
     us-east-1 = "ami-0ff8a91507f77f867"
     us-west-2 = "ami-a0cfeed8"
-    eu-west-1 = "ami-0bdb828fd58c52235"
+    eu-west-1 = "ami-047bb4163c506cd98"
   }
 }
